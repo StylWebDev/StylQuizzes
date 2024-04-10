@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        "description": "A simple math questions that requires basic knowledge.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "img": "https://infinitylearn.com/surge/wp-content/uploads/2021/12/MicrosoftTeams-image-58.jpg",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "description": "Do you know biology? If yes try this quiz to find out!",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "img": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/01/20181615/scope-of-biology.jpg",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "description": "If you know a bit of chemistry then this quiz is for you.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "img": "https://telgurus.co.uk/srcgurus/uploads/2021/10/Concentration.jpg",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/cybersecurity.png",
+        "name": "Cyber Security",
+        "description": "A simple quiz based on Cyber Security.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What are three methods that can be used to ensure confidentiality of information?",
+                "img": "https://assets-global.website-files.com/620c0d2e51cac37f5958848f/632c6264ae337740bfa78f1b_cybersecurity.jpg",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "two factor authentication",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "version control",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "file permission settings",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "backup",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which method is used to check the integrity of data?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "authentication",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "encryption",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "snoop",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "checksum",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is a reason that internal security threats might cause greater damage to an organization than external security threats?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Internal users have better hacking skills",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Internal users have direct access to the infrastructure devices.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Internal users can access the corporate data without authentication.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Internal users can access the infrastructure devices through the Internet.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg",
+        "name": "HTML",
+        "description": "An entry level HTML quiz. Everyone should know a bit of HTML.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Which element is used to group an heading element together with a paragraph?",
+                "img": "https://www.udacity.com/blog/wp-content/uploads/2020/06/HTML_Blog-scaled.jpeg",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "<hgroup>",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "<table>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "<details>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "<object>",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which HTML element is used to load another html page within the document?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "<video>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "<frameset>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "<embed>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "<iframe>",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which HTML element is used to provide a drop-down list of pre-defined options ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "<select>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "<datalist>",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "<input type='text'>",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "<dl>",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

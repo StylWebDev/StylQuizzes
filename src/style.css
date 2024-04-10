@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #21222C;
+  cursor: default;
+}
+
+
+
+.rainbow{
+  animation: rainbow 10s linear infinite;
+}
+
+@keyframes rainbow {
+  from {
+    color: #6666ff;
+  }
+  10% {
+    color: #0099ff;
+  }
+  50% {
+    color: #00ff00;
+  }
+  75% {
+    color: #ff3399;
+  }
+  100% {
+    color: #6666ff;
+  }
+}
