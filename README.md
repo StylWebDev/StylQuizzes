@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# ![StylsQuizzes_Icon](https://api.iconify.design/ri:meteor-fill.svg?color=%2322ce2d&width=35) StylsQuizzes:
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A web app that offers a diverse range of quizzes across various subjects.
 
-## Recommended IDE Setup
+## StylsQuizzes Purpose:
+My primary goal for creating this website was to be a better developer and also to make learning fun and accessible for everyone.
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Tools Used:
+This template was created with Vue 3 in Vite, Vue-router, Pinia, Headless UI, Tailwinds CSS and Iconify.
+
+## ![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=27) Vite:
+https://vitejs.dev/
+### ![VueRouter_icon](https://api.iconify.design/logos:vue.svg?width=27)  Vue:
+https://vuejs.org/
+### ![Vue_icon](https://api.iconify.design/logos:vue.svg?width=27) Vue-router:
+https://router.vuejs.org/
+### ![Pinia_icon](https://api.iconify.design/logos:pinia.svg?width=27) pinia:
+https://pinia.vuejs.org/
+### ![Tailwinds_icon](https://api.iconify.design/logos:tailwindcss-icon.svg?width=28) Tailwinds Css:
+https://tailwindcss.com/
+### ![Iconify_icon](https://api.iconify.design/logos:stoplight.svg?width=28) Iconify:
+https://iconify.design/
+## ![headlessUI_icon](https://api.iconify.design/logos:headlessui-icon.svg?width=28) Headless UI:
+https://headlessui.com/
