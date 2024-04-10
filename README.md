@@ -1,4 +1,4 @@
-# ![StylsQuizzes_Icon](https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/logo.svg?width=27) StylsQuizzes:
+#StylsQuizzes:
 
 A web app that offers a diverse range of quizzes across various subjects.
 
