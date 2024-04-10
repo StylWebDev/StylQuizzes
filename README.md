@@ -1,4 +1,4 @@
-#StylsQuizzes:
+# StylsQuizzes:
 
 A web app that offers a diverse range of quizzes across various subjects.
 
