@@ -2,7 +2,15 @@
   "name": "stylsquizzes",
   "description": "A web app that offers a diverse range of quizzes across various subjects.",
   "author": "Stylianou Konstantinos",
-  "keywords": ["HTML","CSS","JavaScript", "Vue.js", "Vue Router", "Pinia", "Vite"],
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Vue.js",
+    "Vue Router",
+    "Pinia",
+    "Vite"
+  ],
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,9 +21,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.19",
-    "animate.css": "^4.1.1",
     "pinia": "^2.1.7",
-    "vanilla-tilt": "^1.8.1",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },

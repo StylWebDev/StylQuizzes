@@ -9,7 +9,7 @@ module.exports = {content: [
     extend: {
       container: {center:true},
       boxShadow: {
-        'full': '0 0px 20px 0px',
+        'full': '0 0px 10px 0px',
         //shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)]
       },
       textShadow: {
@@ -17,6 +17,9 @@ module.exports = {content: [
         DEFAULT: '0 2px 4px var(--tw-shadow-color)',
         lg: '0 8px 16px var(--tw-shadow-color)',
       },
+      transitionDuration: {
+        '5000': '5000ms',
+      }
     },
   },
   plugins: [
