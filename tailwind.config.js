@@ -7,7 +7,7 @@ module.exports = {content: [
   ],
   theme: {
     extend: {
-      container: {center:true},
+      container: {center: true},
       boxShadow: {
         'full': '0 0px 10px 0px',
         //shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)]
@@ -19,8 +19,14 @@ module.exports = {content: [
       },
       transitionDuration: {
         '5000': '5000ms',
-      }
-    },
+      },
+      colors: {
+        eggplant: {
+          500: "#424458",
+          600: "#373949"
+        }
+      },
+    }
   },
   plugins: [
     plugin(function ({ matchUtilities, theme }) {

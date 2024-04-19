@@ -38,8 +38,8 @@ const props = defineProps({
         <p class="text-xs text-neutral-200 mt-3 opacity-75 px-1">{{props.questions}} Questions</p>
       </StracturesFlex>
       <hr class="text-white rounded-full opacity-50" width="98%"/>
-      <StracturesFlex :row="true" justify="center" items="center">
-        <RouterLink :to="`/quiz/${props.link}`" class="py-0.5 px-2 bg-violet-500 rounded-xl brightness-150 hover:brightness-200 border border-white transition ease duration-150 delay-100 cursor-pointer">Take Quiz</RouterLink>
+      <StracturesFlex :row="true" justify="center" items="center" class="pt-1">
+        <RouterLink :to="`/quiz/${props.link}`" class="py-0.5 px-2 bg-violet-500 shadow hover:shadow-full rounded-xl hover:brightness-125 border border-white transition-all ease-in duration-500 delay-100 cursor-pointer">Take Quiz</RouterLink>
       </StracturesFlex>
     </StracturesFlex>
   </div>
