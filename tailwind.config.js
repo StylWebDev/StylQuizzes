@@ -19,6 +19,12 @@ module.exports = {content: [
       },
       transitionDuration: {
         '5000': '5000ms',
+      },
+      colors: {
+        eggplant: {
+          500: "#424458",
+          600: "#373949"
+        }
       }
     },
   },
