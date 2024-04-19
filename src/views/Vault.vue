@@ -19,7 +19,7 @@ watch(search, (newVal) => {
 
    <hgroup class="text-center">
      <h1 class="text-4xl font-extrabold text-violet-500 brightness-150">Welcome to StylQuizzes</h1>
-     <p class="text-2xl font-bold rainbow">A web platform where you can test your knowledge</p>
+     <p class="text-2xl font-bold text-white">A web platform where you can test your knowledge</p>
    </hgroup>
 
     <StracturesFlex :row="true" justify="around">
